@@ -1,0 +1,32 @@
+Fan testing :
+
+1.Check the color and logo of the fan.
+2.Switch the on the fan check whether fan is switch on or not. 
+3.Switch the off the fan check whether fan is switch off or not. 
+4.Check how many volts and amp currunt need to turn on the fan.
+5.Check fan is continously working or not.
+6.Check fan fitted in good manner or not.
+7.Check any crack is present on fan or not.
+8.Check without currunt fan will start or not.
+
+Remote Testing:
+
+1.Check logo and color 
+2.Check each and every button working perfect or not.
+3.check which type of remote its is either its tv remote or ac or other.
+4.Check on off button of remote.
+5.Check cells are present in remote or not.
+6.Check the range of remote where we can change the channel.
+7.Check any crack is present on remote or not.
+8.Check body fitting of remote.
+9.Check without cell remote is working or not.
+
+Bottol Testing:
+
+1.Check whether bottol is metallic or plastic.
+2.Check cap of bottol is fitted perfect or not.
+3.Check storing capacity of bottol.
+4.Color of the bottol and logo.
+5.Check whether we store hot water into bottol then what happning with bottol.
+6.Check if we folding the bottol then what happen.
+7.Check if we store the bottol in fridge then what bottol behave likes.
